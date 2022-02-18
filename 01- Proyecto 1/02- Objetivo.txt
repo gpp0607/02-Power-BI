@@ -1,0 +1,8 @@
+Objetivo del Informe:
+
+Realizar gráficos y visualizaciones interactivas que representen los montos de ventas para distintas categorías de una serie de datos.
+ 
+Se requiere analizar ventas en un informe por las categorías de:
+- Región
+- Producto
+- Vendedor
